@@ -13,7 +13,7 @@ the fufillment category after the intent is uploaded
 upload the file average.json under the entity category 
 
 
-![alt text] (https://user-images.githubusercontent.com/7577489/38846989-1af88eb0-41b4-11e8-9f67-4a01fbfaae73.png)
+![caputre](https://user-images.githubusercontent.com/7577489/38846989-1af88eb0-41b4-11e8-9f67-4a01fbfaae73.png)
 
 you can upload for each category by click the three vertical dots next to the create buttons
 
@@ -60,4 +60,4 @@ https://shy-dodo-32.localtunnel.me/helloWorld/us-central1/Rtest
 This is you fufillment that you should input into your dialogflow console in order to call the RScript.
 
 
-![alt text](https://user-images.githubusercontent.com/7577489/38846988-1add46c8-41b4-11e8-808b-6927180c3c68.png)
+![capture](https://user-images.githubusercontent.com/7577489/38846988-1add46c8-41b4-11e8-808b-6927180c3c68.png)
