@@ -23,7 +23,7 @@ upload the file average.json under the entity category
 ![caputre](https://user-images.githubusercontent.com/7577489/38846989-1af88eb0-41b4-11e8-9f67-4a01fbfaae73.png)
 
 
-##Project files
+## Project files
 Install Node JS
 
 https://nodejs.org/en/
