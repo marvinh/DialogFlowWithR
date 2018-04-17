@@ -61,6 +61,7 @@ lt --port 8010
 //it will output something like your url is: https://shy-dodo-32.localtunnel.me
 //copy the end of our deployed resource and combine with the url
 
+### This url changes everytime you call lt --port 8010
 
 https://shy-dodo-32.localtunnel.me/helloWorld/us-central1/Rtest
 
@@ -69,3 +70,11 @@ Make sure to save
 
 
 ![capture](https://user-images.githubusercontent.com/7577489/38846988-1add46c8-41b4-11e8-808b-6927180c3c68.png)
+
+
+## Example output
+
+![capture](https://user-images.githubusercontent.com/7577489/38847947-12cada86-41b9-11e8-8482-b8d48d7e07b6.png)
+
+
+
