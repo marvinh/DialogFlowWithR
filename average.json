@@ -1,0 +1,17 @@
+{
+  "id": "bed4c5ee-5459-4413-b150-7fc8da774179",
+  "name": "average",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Mean",
+      "synonyms": [
+        "Mean",
+        "Average",
+        "centeral tendency"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

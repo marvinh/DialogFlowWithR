@@ -1,0 +1,99 @@
+{
+  "id": "223b68b6-3f27-45dc-8911-0fd5a4785f25",
+  "name": "RScripts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "R_SCRIPT",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7239c4dc-3d5e-46a5-8d8e-525d02df88d1",
+          "required": false,
+          "dataType": "@average",
+          "name": "average",
+          "value": "$average",
+          "isList": false
+        },
+        {
+          "id": "8c064b42-0553-4917-92e1-30cdb066eec0",
+          "required": false,
+          "dataType": "@mode",
+          "name": "mode",
+          "value": "$mode",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "I'm not sure about the $average"
+        },
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523759514,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ed46ed81-cfe7-41d0-ad2b-b20c1d3affff",
+      "data": [
+        {
+          "text": "What is the "
+        },
+        {
+          "text": "most",
+          "alias": "mode",
+          "meta": "@mode",
+          "userDefined": false
+        },
+        {
+          "text": " frequently occurring number in a random distribution"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1523759130,
+      "isAuto": false
+    },
+    {
+      "id": "ccfb0e9e-f416-422d-88ab-9bc301e58b6c",
+      "data": [
+        {
+          "text": "What is the "
+        },
+        {
+          "text": "mean",
+          "alias": "average",
+          "meta": "@average",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1523759130,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}
