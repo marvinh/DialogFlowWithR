@@ -65,6 +65,7 @@ lt --port 8010
 https://shy-dodo-32.localtunnel.me/helloWorld/us-central1/Rtest
 
 This is you fufillment that you should input into your dialogflow console in order to call the RScript.
+Make sure to save
 
 
 ![capture](https://user-images.githubusercontent.com/7577489/38846988-1add46c8-41b4-11e8-808b-6927180c3c68.png)
