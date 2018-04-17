@@ -22,8 +22,8 @@ upload the file average.json under the entity category
 
 ![caputre](https://user-images.githubusercontent.com/7577489/38846989-1af88eb0-41b4-11e8-9f67-4a01fbfaae73.png)
 
-you can upload for each category by click the three vertical dots next to the create buttons
 
+##Project files
 Install Node JS
 
 https://nodejs.org/en/
