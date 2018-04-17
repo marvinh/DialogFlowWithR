@@ -5,6 +5,8 @@ https://console.dialogflow.com/api-client/#/login
 upload the file RScripts.json under the intents category make sure webhook is enabled in
 the fufillment category after the intent is uploaded
 
+
+
 upload the file average.json under the entity category 
 
 you can upload for each category by click the three vertical dots next to the create buttons
@@ -15,6 +17,8 @@ https://nodejs.org/en/
 
 
 mkdir project1
+
+//move index.js, R_mean.r inside the folder
 
 cd project1
 
