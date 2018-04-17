@@ -6,8 +6,13 @@ upload the file RScripts.json under the intents category make sure webhook is en
 the fufillment category after the intent is uploaded
 
 
+![screen shot 2018-04-16 at 8 16 50 pm](https://user-images.githubusercontent.com/7577489/38846990-1b11dbae-41b4-11e8-8e72-5669b7466c77.png)
+
 
 upload the file average.json under the entity category 
+
+
+![screen shot 2018-04-16 at 8 16 58 pm](https://user-images.githubusercontent.com/7577489/38846989-1af88eb0-41b4-11e8-9f67-4a01fbfaae73.png)
 
 you can upload for each category by click the three vertical dots next to the create buttons
 
@@ -52,4 +57,7 @@ lt --port 8010
 https://shy-dodo-32.localtunnel.me/helloWorld/us-central1/Rtest
 
 This is you fufillment that you should input into your dialogflow console in order to call the RScript.
+
+
+![screen shot 2018-04-16 at 8 17 08 pm](https://user-images.githubusercontent.com/7577489/38846988-1add46c8-41b4-11e8-808b-6927180c3c68.png)
 
