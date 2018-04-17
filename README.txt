@@ -6,13 +6,13 @@ upload the file RScripts.json under the intents category make sure webhook is en
 the fufillment category after the intent is uploaded
 
 
-![Screenshot](https://user-images.githubusercontent.com/7577489/38846990-1b11dbae-41b4-11e8-8e72-5669b7466c77.png)
+![Screenshot] (https://user-images.githubusercontent.com/7577489/38846990-1b11dbae-41b4-11e8-8e72-5669b7466c77.png)
 
 
 upload the file average.json under the entity category 
 
 
-![alt text](https://user-images.githubusercontent.com/7577489/38846989-1af88eb0-41b4-11e8-9f67-4a01fbfaae73.png)
+![alt text] (https://user-images.githubusercontent.com/7577489/38846989-1af88eb0-41b4-11e8-9f67-4a01fbfaae73.png)
 
 you can upload for each category by click the three vertical dots next to the create buttons
 
